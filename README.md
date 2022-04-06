@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @reason1406 (I'm not that creative with usernames), My name is Lucas Andrade, I'm 22 years old, currently at my last year of computer's science graduation.
+- 👋 Hi, I’m @mrSimpleCode (I'm not that creative with usernames), My name is Lucas Andrade, I'm 22 years old, currently at my last year of computer's science graduation.
 - 👀 I’m interested in improve my skills with front-end development.
 - 🌱 I’m currently learning HTML, CSS and JavaScript. 
 
